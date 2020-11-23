@@ -68,7 +68,7 @@
                     ]
                   },
                   "Binds": [
-                    "/c/iot-edge-data/node-red:/data"
+                    "/iot-edge-data/node-red:/data"
                   ]
                 }
               }
