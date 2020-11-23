@@ -1,0 +1,10 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-azure-iot-edge-module": "^1.0.4",
+        "node-red-contrib-mssql-plus": "^0.6.1"
+    }
+}
